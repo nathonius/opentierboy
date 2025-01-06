@@ -3856,6 +3856,129 @@
       },
       "googleFont": "Chakra Petch",
       "backgroundImage": "/splash/hd2-splash.webp"
+    },
+    "image-metaphor": {
+      "displayName": "Metaphor",
+      "images": [
+        {
+          "filename": "Alonzo.webp",
+          "label": "Alonzo.webp",
+          "tags": []
+        },
+        {
+          "filename": "Bardon.webp",
+          "label": "Bardon.webp",
+          "tags": []
+        },
+        {
+          "filename": "Basilio.webp",
+          "label": "Basilio.webp",
+          "tags": []
+        },
+        {
+          "filename": "Eupha.webp",
+          "label": "Eupha.webp",
+          "tags": []
+        },
+        {
+          "filename": "Fidelio.webp",
+          "label": "Fidelio.webp",
+          "tags": []
+        },
+        {
+          "filename": "Forden.webp",
+          "label": "Forden.webp",
+          "tags": []
+        },
+        {
+          "filename": "Gallica.webp",
+          "label": "Gallica.webp",
+          "tags": []
+        },
+        {
+          "filename": "Glodell.webp",
+          "label": "Glodell.webp",
+          "tags": []
+        },
+        {
+          "filename": "Grius.webp",
+          "label": "Grius.webp",
+          "tags": []
+        },
+        {
+          "filename": "Heismay.webp",
+          "label": "Heismay.webp",
+          "tags": []
+        },
+        {
+          "filename": "Hulkenberg.webp",
+          "label": "Hulkenberg.webp",
+          "tags": []
+        },
+        {
+          "filename": "Junah.webp",
+          "label": "Junah.webp",
+          "tags": []
+        },
+        {
+          "filename": "King.webp",
+          "label": "King.webp",
+          "tags": []
+        },
+        {
+          "filename": "Louis.webp",
+          "label": "Louis.webp",
+          "tags": []
+        },
+        {
+          "filename": "Loveless.webp",
+          "label": "Loveless.webp",
+          "tags": []
+        },
+        {
+          "filename": "Milo.webp",
+          "label": "Milo.webp",
+          "tags": []
+        },
+        {
+          "filename": "More.webp",
+          "label": "More.webp",
+          "tags": []
+        },
+        {
+          "filename": "Neuras.webp",
+          "label": "Neuras.webp",
+          "tags": []
+        },
+        {
+          "filename": "Rella.webp",
+          "label": "Rella.webp",
+          "tags": []
+        },
+        {
+          "filename": "Rudolf.webp",
+          "label": "Rudolf.webp",
+          "tags": []
+        },
+        {
+          "filename": "Strohl.webp",
+          "label": "Strohl.webp",
+          "tags": []
+        },
+        {
+          "filename": "Will.webp",
+          "label": "Will.webp",
+          "tags": []
+        },
+        {
+          "filename": "Zorba.webp",
+          "label": "Zorba.webp",
+          "tags": []
+        }
+      ],
+      "tags": {},
+      "googleFont": "Saira",
+      "backgroundImage": "/splash/thefinals-red-bg.webp"
     }
   }
 }

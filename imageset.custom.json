@@ -30,6 +30,11 @@
       "displayName": "HELLDIVERS 2",
       "googleFont": "Chakra Petch",
       "backgroundImage": "/splash/hd2-splash.webp"
+    },
+    "image-metaphor": {
+      "displayName": "Metaphor",
+      "googleFont": "Saira",
+      "backgroundImage": "/splash/thefinals-red-bg.webp"
     }
   }
 }
